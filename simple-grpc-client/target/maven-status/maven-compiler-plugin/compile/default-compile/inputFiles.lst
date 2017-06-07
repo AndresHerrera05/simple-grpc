@@ -1,0 +1,8 @@
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/src/main/java/com/example/grpc/client/MyGrpcClient.java
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/target/generated-sources/protobuf/grpc-java/com/example/grpc/GreetingServiceGrpc.java
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/target/generated-sources/protobuf/java/com/example/grpc/HelloResponse.java
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/target/generated-sources/protobuf/java/com/example/grpc/ExampleServices.java
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/target/generated-sources/protobuf/java/com/example/grpc/HelloResponseOrBuilder.java
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/target/generated-sources/protobuf/java/com/example/grpc/HelloRequestOrBuilder.java
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/target/generated-sources/protobuf/java/com/example/grpc/HelloRequest.java
+/home/kamus/Documents/proyectos/pruebas/simple-grpc-client/target/generated-sources/protobuf/java/com/example/grpc/Sentiment.java
